@@ -28,5 +28,5 @@
 
 ## 👨‍💻 作者資訊
 * **Author:** 羅健安 (Luo Jian-an)
-* **Institution:** 元智大學 資訊工程學系 (YZU CS)
+* **Institution:** 元智大學 資訊英專 (YZU IBPI)
 * <img width="805" height="562" alt="image" src="https://github.com/user-attachments/assets/ca62eaf4-d978-4a17-8cb3-ae3ec977fe04" />
